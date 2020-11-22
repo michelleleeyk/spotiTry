@@ -11,7 +11,7 @@ Created using the [Spotify Web API](https://developer.spotify.com/documentation/
 Get your OAuth token [here](https://developer.spotify.com/console/get-search-item/?q=m&type=artist&market=&limit=1&offset=203&include_external=)
 </br></br>
 
-2. In terminal </br>
+2. Run program in terminal </br>
 `python run.py`
 </br></br>
 ## Future Plans
