@@ -10,6 +10,7 @@ Created using the [Spotify Web API](https://developer.spotify.com/documentation/
 </br>
 Get your OAuth token [here](https://developer.spotify.com/console/get-search-item/?q=m&type=artist&market=&limit=1&offset=203&include_external=)
 </br></br>
+
 2. In terminal </br>
 `python run.py`
 </br></br>
