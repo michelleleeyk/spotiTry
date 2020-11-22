@@ -1,8 +1,9 @@
 # spotiTry
 A program that allows users to discover new artists effectively (listen to their most popular songs) and efficiently (listen to 30 second previews of each song). </br></br>
+First, a random artist is generated. Their name, number of followers and top 5 songs will be displayed. Finally, links to the previews of each song are displayed. </br></br>
 Created using the [Spotify Web API](https://developer.spotify.com/documentation/web-api/) and [Spotipy library](https://spotipy.readthedocs.io/en/2.16.1/)
 
-## To Run
+## To Run Program
 1. Define environment variables </br>
 `export SPOTIPY_CLIENT_ID=your_client_id_here` </br>
 `export SPOTIPY_CLIENT_SECRET=your_client_secret_here` </br>
