@@ -1,6 +1,6 @@
 # spotiTry
 A program that allows users to discover new artists effectively (listen to their most popular songs) and efficiently (listen to 30 second previews of each song). </br>
-Created using the [Spotify Web API] (https://developer.spotify.com/documentation/web-api/) and [Spotipy library] (https://spotipy.readthedocs.io/en/2.16.1/).
+Created using the (Spotify Web API)[https://developer.spotify.com/documentation/web-api/) and [Spotipy library] (https://spotipy.readthedocs.io/en/2.16.1/]
 
 ## To Run
 1. Define environment variables
