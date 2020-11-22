@@ -14,9 +14,6 @@ Get your OAuth token [here](https://developer.spotify.com/console/get-search-ite
 2. Run program in terminal </br>
 `python run.py`
 
-## Results
-![Image of Result in Terminal](https://drive.google.com/file/d/1k3z6hIzQajJcak8RJY-adLqGwCOO6IVF/view?usp=sharing)
-
 ## Future Plans
 * Develop a web app with a simple UI for this program - using Flask, HTML, CSS
 * Add user log-in system
