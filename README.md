@@ -4,7 +4,7 @@ Created using the [Spotify Web API](https://developer.spotify.com/documentation/
 
 ## To Run
 1. Define environment variables
-# export SPOTIPY_CLIENT_ID=your_client_id_here
+#export SPOTIPY_CLIENT_ID=your_client_id_here
 # export SPOTIPY_CLIENT_SECRET=your_client_secret_here
 # export SPOTIFY_AUTH_TOKEN=your_token_here
 </br></br>
