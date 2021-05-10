@@ -15,7 +15,7 @@ Get your OAuth token [here](https://developer.spotify.com/console/get-search-ite
 `python run.py`
 
 ## Future Plans
-* Develop a web app with a simple UI for this program - using Flask, HTML, CSS
+* Develop a web app with a simple UI for this program - using HTML, CSS
 * Add user log-in system
 * Give users the option to follow the artist (using spotify.user_follow_artist(artist[id'])
 * Give users the option to add full song to their library (using spotify.current_user_saved_tracks(tracks=None))
